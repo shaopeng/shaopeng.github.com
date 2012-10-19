@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[大绍鹏@Octopress@PageService@Github]]></title>
-  <link href="http://shaopeng.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: others | 大绍鹏@Octopress@PageService@Github]]></title>
+  <link href="http://shaopeng.github.com/blog/categories/others/atom.xml" rel="self"/>
   <link href="http://shaopeng.github.com/"/>
   <updated>2012-10-20T01:16:14+08:00</updated>
   <id>http://shaopeng.github.com/</id>
